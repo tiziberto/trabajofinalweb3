@@ -103,8 +103,8 @@
 	</dependencies>
 
 	<profiles>
-		<!-- Perfiles de ejecución -->
-		
+		<!-- Perfiles de ejecución viejos -->
+		<!-- 
 		<profile>
 			<id>cli1</id>
 			<properties>
@@ -130,7 +130,7 @@
 				<spring.profiles.active>mysqlprod</spring.profiles.active>
 			</properties>
 		</profile>
-
+ 		-->
 		<!-- Perfiles de empaquetado -->
 		<profile>
 			<id>war-build</id>
